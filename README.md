@@ -1,6 +1,10 @@
 # WSLfantasy
 Historical Comparative Analysis on Professional Surfers
 
+Beat your mates in fantasy surf and make them buy you a beer.
+
+This dataset will allow you to compare past surfer performance across different beaches, years, and opponents.
+
 
 Within this repository are the two data sets used.
 
@@ -21,7 +25,6 @@ Holds event:
 -beach
 -province
 -country
-
 
 
 tableau dashboard is available on my public profile
